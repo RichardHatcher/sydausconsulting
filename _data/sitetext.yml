@@ -11,19 +11,19 @@ services:
     list:
       - title: "Process Map Your Current Work Flow"
         desc: "Meet with your team to analyze process flow​.<br>Create a Visio Flow Chart."
-        icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
+        icon: fas fa-map-marked-alt #find more at https://fontawesome.com/icons
       - title: "Improve Your Process Efficiency"
         desc: "Find the most time consuming or error generating process step​ and find a solution."
         icon: fas fa-laptop
       - title: "Implement a Process Control System"
         desc: "Track time/date stamps to see the speed of processing​"
-        icon: fab fa-markdown
+        icon: far fa-check-circle
       - title: "Design of Experiments"
         desc: "Six Sigma certified to find solutions.​​"
-        icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
+        icon: fas fa-medal #find more at https://fontawesome.com/icons
       - title: "Documentation"
         desc: "Work with team to create useful and complete procedures."
-        icon: fas fa-laptop
+        icon: fas fa-pen
 
 
 timeline:
