@@ -20,7 +20,7 @@ services:
         icon: far fa-check-circle
       - title: "Design of Experiments"
         desc: "Six Sigma certified to find solutions.​​"
-        icon: fas fa-medal #find more at https://fontawesome.com/icons
+        icon: fas fa-user-clock #find more at https://fontawesome.com/icons
       - title: "Documentation"
         desc: "Work with team to create useful and complete procedures."
         icon: fas fa-pen
